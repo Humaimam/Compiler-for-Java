@@ -1,0 +1,49 @@
+public class A_B_C  extends abx,bcd
+{
+
+
+//public static void main(String[] args)
+//{
+//int a=2;
+//int b=3;
+//switch(b&&2){
+//case a:
+//do{
+//int a=2;}
+//while(a<=2);
+//break;}
+
+public static void main(String[] args)
+{
+//int b=3;
+//int asdd=3;
+//;
+switch(b&&b){
+case s:
+do{
+int k;}
+while(a<=b);
+break;}
+enum Day {
+    SUNDAY, MONDAY, TUESDAY, WEDNESDAY,
+   THURSDAY, FRIDAY, SATURDAY 
+}
+if(a<b){
+int sbbbb;
+a=b;}
+else 
+{
+b=a;
+}
+
+//int x=a+b*c,z=a+(b*c);
+//String s=this.t.a(),s=this.a;
+//s=b=c=this.a;
+//s=this.r.rab()+a.b.fn[b]-arr[a][a].d;
+
+}}
+
+
+public interface abcd implements X,Y,Z{
+public void fn(String[] s);
+}

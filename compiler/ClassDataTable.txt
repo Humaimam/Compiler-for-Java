@@ -1,0 +1,4 @@
+
+main,String->void,null,Yes,general,No,A_B_C
+Day,enum,null,No,general,No,A_B_C
+r,rabbiya,null,No,general,Yes,A_B_C
